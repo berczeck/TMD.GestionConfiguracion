@@ -1,0 +1,14 @@
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\obj\Debug\TMD.CF.LogicaNegocios.csprojResolveAssemblyReference.cache
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\TMD.CF.LogicaNegocios.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\TMD.CF.LogicaNegocios.pdb
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\TMD.CF.AccesoDatos.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\TMD.CF.AccesoDatos.pdb
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\obj\Debug\TMD.CF.LogicaNegocios.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\obj\Debug\TMD.CF.LogicaNegocios.pdb
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\TMD.GC.Entidades.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.LogicaNegocios\bin\Debug\TMD.GC.Entidades.pdb

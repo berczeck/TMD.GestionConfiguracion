@@ -1,0 +1,12 @@
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\obj\Debug\TMD.CF.AccesoDatos.csprojResolveAssemblyReference.cache
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\bin\Debug\TMD.CF.AccesoDatos.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\bin\Debug\TMD.CF.AccesoDatos.pdb
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\obj\Debug\TMD.CF.AccesoDatos.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\obj\Debug\TMD.CF.AccesoDatos.pdb
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\bin\Debug\TMD.GC.Entidades.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.AccesoDatos\bin\Debug\TMD.GC.Entidades.pdb

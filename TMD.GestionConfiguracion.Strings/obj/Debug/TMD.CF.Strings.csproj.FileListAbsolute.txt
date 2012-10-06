@@ -1,0 +1,4 @@
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.Strings\bin\Debug\TMD.CF.Strings.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.Strings\bin\Debug\TMD.CF.Strings.pdb
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.Strings\obj\Debug\TMD.CF.Strings.dll
+F:\Proyectos\TMD.GestionConfiguracion\TMD.GestionConfiguracion.Strings\obj\Debug\TMD.CF.Strings.pdb

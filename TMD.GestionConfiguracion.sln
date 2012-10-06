@@ -1,0 +1,138 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Comun", "02.Comun", "{634C3613-F597-4D39-9265-0D127648F9FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Modelado", "01.Modelado", "{690E8D8D-C87E-4AD9-8533-C809F42F31A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.CapaDatos", "03.CapaDatos", "{78B41237-1690-4A5C-A0E8-5950B954DD4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.CapaNegocios", "04.CapaNegocios", "{7E81BCD7-87D8-4EB1-96EF-26230DD01F98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.CapaPresentacion", "05.CapaPresentacion", "{08B7FC44-7B5E-4BB7-8788-EC80964918D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.Test", "06.Test", "{91D407F0-16E8-4206-888A-44A1FD2A5818}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "TMD.CF.Modelo", "TMD.GestionConfiguracion.Modelo\TMD.CF.Modelo.modelproj", "{4E83BF7E-A9B6-42D1-8FA7-F55F9E9E19D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CF.Core", "TMD.GestionConfiguracion.Core\TMD.CF.Core.csproj", "{A1458C90-1DFA-4F07-A8E3-F3F0BF953216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CF.Strings", "TMD.GestionConfiguracion.Strings\TMD.CF.Strings.csproj", "{5ECB613B-8ED1-4427-83AA-1615B9E0E319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CF.AccesoDatos", "TMD.GestionConfiguracion.AccesoDatos\TMD.CF.AccesoDatos.csproj", "{728F843E-C373-48F7-A41E-B2A5B6FA2572}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Librerias", "00.Librerias", "{9D7BB1A2-7E1D-49FC-94C3-60ACC8486836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CF.LogicaNegocios", "TMD.GestionConfiguracion.LogicaNegocios\TMD.CF.LogicaNegocios.csproj", "{1ED7F34A-504A-4BA9-A9A2-DDED2E15DB61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CF.Entidades", "TMD.GestionConfiguracion.Entidades\TMD.CF.Entidades.csproj", "{106F46E5-0855-453E-9C06-B67D1EE7A00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CF.Site", "TMD.GestionConfiguracion.Site\TMD.CF.Site.csproj", "{8E4B6AF7-458B-4FEF-9879-B66C16B3441D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EnterpriseLibrary", "EnterpriseLibrary", "{C0E9B76F-EF91-49FC-AE92-A83680DE6C8C}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Common.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Common.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Data.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Data.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Logging.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Security.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Security.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Validation.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+		Librerias\Microsoft.Practices.ServiceLocation.dll = Librerias\Microsoft.Practices.ServiceLocation.dll
+		Librerias\Microsoft.Practices.Unity.Configuration.dll = Librerias\Microsoft.Practices.Unity.Configuration.dll
+		Librerias\Microsoft.Practices.Unity.dll = Librerias\Microsoft.Practices.Unity.dll
+		Librerias\Microsoft.Practices.Unity.Interception.dll = Librerias\Microsoft.Practices.Unity.Interception.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mock", "Mock", "{D279FDE5-0877-4D76-AF7B-845F50EEDD73}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\Rhino.Mocks.dll = Librerias\Rhino.Mocks.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AjaxControlTOolkit", "AjaxControlTOolkit", "{018B614F-5867-4B19-AACB-974A8FBC00F7}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\AjaxControlToolkit.dll = Librerias\AjaxControlToolkit.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReportViewer", "ReportViewer", "{4A1D6B32-DC9D-47E1-A546-C763E8E69CDC}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\Microsoft.ReportViewer.Common.dll = Librerias\Microsoft.ReportViewer.Common.dll
+		Librerias\Microsoft.ReportViewer.WebForms.dll = Librerias\Microsoft.ReportViewer.WebForms.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CF.AccesoDatos.Test", "TMD.GC.AccesoDatos.Test\TMD.CF.AccesoDatos.Test.csproj", "{87C75065-E20C-4B07-9844-09FD8ED7C495}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{92543717-A139-47CF-89E4-D64BEF757DB6}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TMD.GestionConfiguracion.vsmdi = TMD.GestionConfiguracion.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = TMD.GestionConfiguracion.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E83BF7E-A9B6-42D1-8FA7-F55F9E9E19D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E83BF7E-A9B6-42D1-8FA7-F55F9E9E19D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E83BF7E-A9B6-42D1-8FA7-F55F9E9E19D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E83BF7E-A9B6-42D1-8FA7-F55F9E9E19D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1458C90-1DFA-4F07-A8E3-F3F0BF953216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1458C90-1DFA-4F07-A8E3-F3F0BF953216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1458C90-1DFA-4F07-A8E3-F3F0BF953216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1458C90-1DFA-4F07-A8E3-F3F0BF953216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECB613B-8ED1-4427-83AA-1615B9E0E319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECB613B-8ED1-4427-83AA-1615B9E0E319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECB613B-8ED1-4427-83AA-1615B9E0E319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECB613B-8ED1-4427-83AA-1615B9E0E319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728F843E-C373-48F7-A41E-B2A5B6FA2572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728F843E-C373-48F7-A41E-B2A5B6FA2572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728F843E-C373-48F7-A41E-B2A5B6FA2572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728F843E-C373-48F7-A41E-B2A5B6FA2572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED7F34A-504A-4BA9-A9A2-DDED2E15DB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED7F34A-504A-4BA9-A9A2-DDED2E15DB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED7F34A-504A-4BA9-A9A2-DDED2E15DB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED7F34A-504A-4BA9-A9A2-DDED2E15DB61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106F46E5-0855-453E-9C06-B67D1EE7A00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106F46E5-0855-453E-9C06-B67D1EE7A00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106F46E5-0855-453E-9C06-B67D1EE7A00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106F46E5-0855-453E-9C06-B67D1EE7A00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4B6AF7-458B-4FEF-9879-B66C16B3441D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4B6AF7-458B-4FEF-9879-B66C16B3441D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4B6AF7-458B-4FEF-9879-B66C16B3441D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4B6AF7-458B-4FEF-9879-B66C16B3441D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C75065-E20C-4B07-9844-09FD8ED7C495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C75065-E20C-4B07-9844-09FD8ED7C495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C75065-E20C-4B07-9844-09FD8ED7C495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C75065-E20C-4B07-9844-09FD8ED7C495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1458C90-1DFA-4F07-A8E3-F3F0BF953216} = {634C3613-F597-4D39-9265-0D127648F9FA}
+		{5ECB613B-8ED1-4427-83AA-1615B9E0E319} = {634C3613-F597-4D39-9265-0D127648F9FA}
+		{4E83BF7E-A9B6-42D1-8FA7-F55F9E9E19D8} = {690E8D8D-C87E-4AD9-8533-C809F42F31A3}
+		{728F843E-C373-48F7-A41E-B2A5B6FA2572} = {78B41237-1690-4A5C-A0E8-5950B954DD4C}
+		{1ED7F34A-504A-4BA9-A9A2-DDED2E15DB61} = {7E81BCD7-87D8-4EB1-96EF-26230DD01F98}
+		{106F46E5-0855-453E-9C06-B67D1EE7A00F} = {7E81BCD7-87D8-4EB1-96EF-26230DD01F98}
+		{8E4B6AF7-458B-4FEF-9879-B66C16B3441D} = {08B7FC44-7B5E-4BB7-8788-EC80964918D6}
+		{87C75065-E20C-4B07-9844-09FD8ED7C495} = {91D407F0-16E8-4206-888A-44A1FD2A5818}
+		{92543717-A139-47CF-89E4-D64BEF757DB6} = {91D407F0-16E8-4206-888A-44A1FD2A5818}
+		{C0E9B76F-EF91-49FC-AE92-A83680DE6C8C} = {9D7BB1A2-7E1D-49FC-94C3-60ACC8486836}
+		{D279FDE5-0877-4D76-AF7B-845F50EEDD73} = {9D7BB1A2-7E1D-49FC-94C3-60ACC8486836}
+		{018B614F-5867-4B19-AACB-974A8FBC00F7} = {9D7BB1A2-7E1D-49FC-94C3-60ACC8486836}
+		{4A1D6B32-DC9D-47E1-A546-C763E8E69CDC} = {9D7BB1A2-7E1D-49FC-94C3-60ACC8486836}
+	EndGlobalSection
+EndGlobal
